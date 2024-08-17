@@ -14,6 +14,7 @@ This project provides C++ code for integrating various environmental sensors, su
 8. [Troubleshooting](#troubleshooting)
 9. [Contributing](#contributing)
 10. [License](#license)
+11. [Contact](#contact)
 
 ## Features
 
